@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет! Я — SunStudio-Dev
 
-<!--
-**SunStudio-Dev/SunStudio-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 О себе
+Мы — SunStudio! ✨ Создаем яркие проекты для Minecraft. Следите за нашими репозиториями!
 
-Here are some ideas to get you started:
+- 🌟 Любимый и единственный проект (В данный момент): [SunShulkers](https://github.com/SunStudio-Dev/SunShulkers)
+- 🌍 Наш сайт: [studio.sunworld.pro](https://studio.sunworld.pro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Что мы умеем
+<img width="697" height="694" alt="image" src="https://github.com/user-attachments/assets/ef7dcc5d-7ddf-43c3-9e49-4cf908cd0887" />
+
+
+- Разработка модификаций и плагинов для Minecraft
+- Креативные идеи и яркая реализация
+- Открытость к сотрудничеству и новым проектам
+
+## 📫 Связь
+- GitHub: [SunStudio-Dev](https://github.com/SunStudio-Dev)
+- Discord: [Discord-Server](https://studio.sunworld.pro/discord)
+- Сайт: [studio.sunworld.pro](https://studio.sunworld.pro)
+
+---
+
+Спасибо за интерес к нашим проектам! Оставайтесь с нами и следите за обновлениями ✨
