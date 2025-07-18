@@ -2,5 +2,5 @@
 
 ✨ Создаем яркие проекты для Minecraft. Следите за нашими репозиториями!
 
-- 🌟 Любимый и единственный проект (В данный момент): [SunShulkers](https://github.com/SunStudio-Dev/SunShulkers)
+- 🌟 Наши проекты: [SunShulkers](https://github.com/SunStudio-Dev/SunShulkers) [SunSync](https://github.com/SunStudio-Dev/SunSync)
 - 🌍 Наш сайт: [studio.sunworld.pro](https://studio.sunworld.pro)
